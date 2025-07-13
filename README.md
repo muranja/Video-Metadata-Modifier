@@ -187,7 +187,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Built with [FFmpeg](https://ffmpeg.org/), [ExifTool](https://exiftool.org/), and [Mutagen](https://mutagen.readthedocs.io/).
 - Thanks to the open-source community for providing these powerful tools.
-
----
-
-**Note**: Replace `https://github.com/yourusername/video-metadata-modifier` with the actual repository URL if you host this project. If you need additional sections (e.g., changelog, FAQs) or specific formatting, let me know!
